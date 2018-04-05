@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- See http://trac.mucommander.com/wiki/ActionKeyMap for information on how to customize this file -->
+<keymap version="0.9.9">
+    <action id="MarkAll" keystroke="ctrl ADD" alt_keystroke="ctrl A"/>
+    <action id="CompareFolderFiles"/>
+    <action id="AddTab" keystroke="shift ctrl T" alt_keystroke="ctrl T"/>
+    <action id="EditBookmarks" keystroke="shift ctrl B"/>
+    <action id="UnmarkAll" keystroke="ctrl SUBTRACT"/>
+    <action id="GoToHome" keystroke="ctrl HOME"/>
+    <action id="ExploreBookmarks"/>
+</keymap>

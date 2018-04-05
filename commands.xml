@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+    <command alias="open"    type="system" value="cmd /c start &quot;$n&quot; &quot;$f&quot;"/>
+    <command alias="openURL" type="system" value="cmd /c start &quot;$f&quot;"/>
+    <command alias="openFM"  type="system" value="cmd /c start &quot;$f&quot;" display="Explorer"/>
+    <command alias="openEXE" type="system" value="cmd /c &quot;$f&quot;"/>
+    <command alias="edit" value="&quot;C:\\Program Files\\jEdit\\jedit.exe&quot; &quot;$f&quot;" filemask="" display="jEdit"/>
+    <command alias="edit" value="&quot;C:\\Program Files\\Sublime\ Text\ 3\\sublime_text.exe&quot; &quot;$f&quot;" filemask="" display="Sublime Text 3"/>
+</commands>
