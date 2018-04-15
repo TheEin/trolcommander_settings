@@ -3,4 +3,5 @@
     <command>C:\Program Files\Sublime Text 3\sublime_text.exe</command>
     <command>C:\Program Files\Sublime Text 3\sublime_text.exe $f</command>
     <command>&quot;C:\Program Files\Sublime Text 3\sublime_text.exe&quot; $f</command>
+    <command>dir</command>
 </history>
