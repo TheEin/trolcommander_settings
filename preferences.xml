@@ -42,6 +42,7 @@
 </status_bar>
 <terminal>
 <use_custom_shell>false</use_custom_shell>
+<shell>"C:\Program Files\ConEmu\ConEmu64.exe" -run "{Shells::cmd}"</shell>
 <custom_external_command>"C:\Program Files\ConEmu\ConEmu64.exe" -run "{Shells::cmd}"</custom_external_command>
 <use_custom_external>true</use_custom_external>
 </terminal>
@@ -68,13 +69,13 @@
 <history_size>100</history_size>
 <use_custom>false</use_custom>
 <autodetect_encoding>true</autodetect_encoding>
-<encoding>ISO-8859-1</encoding>
+<encoding>cp866</encoding>
 </shell>
 <startup_folder>
 <on_startup>lastFolders</on_startup>
 <custom_folders>
-<left>C:\Users\Aleksandr.Kuramshin</left>
-<right>C:\Users\Aleksandr.Kuramshin</right>
+<left>C:\Users\einns</left>
+<right>C:\Users\einns</right>
 </custom_folders>
 </startup_folder>
 <theme>
