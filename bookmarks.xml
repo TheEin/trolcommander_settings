@@ -2,26 +2,26 @@
 <bookmarks version="0.9.9">
     <bookmark>
         <name>downloads</name>
-        <location>C:\downloads\</location>
+        <location>D:\downloads\</location>
     </bookmark>
     <bookmark>
         <name>src</name>
-        <location>C:\src\</location>
+        <location>D:\src\</location>
     </bookmark>
     <bookmark>
         <name>bin</name>
-        <location>C:\bin\</location>
+        <location>D:\bin\</location>
     </bookmark>
     <bookmark>
         <name>gdrive</name>
-        <location>C:\gdrive\</location>
+        <location>D:\gdrive\</location>
     </bookmark>
     <bookmark>
         <name>docs</name>
-        <location>C:\docs\</location>
+        <location>D:\docs\</location>
     </bookmark>
     <bookmark>
         <name>temp</name>
-        <location>C:\temp\</location>
+        <location>D:\temp\</location>
     </bookmark>
 </bookmarks>

@@ -1,6 +1,6 @@
 com.mucommander.ui.dialog.file.FileSelectionDialog=800,442,320,196
 com.mucommander.ui.dialog.file.FindFileDialog=702,317,640,480
-com.mucommander.ui.dialog.file.DeleteDialog=856,447,360,161
+com.mucommander.ui.dialog.file.DeleteDialog=856,447,360,193
 com.mucommander.ui.chooser.ColorChooser.ChooserDialog=740,303,670,473
 com.mucommander.ui.dialog.file.MakeDirectoryFileDialog#dir=800,458,320,164
 com.mucommander.ui.viewer.EditorFrame#com.mucommander.ui.viewer.text.TextEditor=611,175,1070,769
@@ -24,7 +24,7 @@ com.mucommander.ui.dialog.pref.theme.ThemeEditorDialog=560,270,1030,539
 com.mucommander.ui.encoding.PreferredEncodingsDialog=810,340,300,400
 com.mucommander.ui.dialog.file.CopyDialog=780,407,360,266
 com.mucommander.ui.dialog.pref.general.ThemeNameDialog=871,491,178,97
-com.mucommander.ui.dialog.FocusDialog=780,471,360,153
+com.mucommander.ui.dialog.FocusDialog=780,471,360,145
 com.mucommander.ui.dialog.bookmark.AddBookmarkDialog=800,464,320,152
 com.mucommander.ui.dialog.file.ProgressDialog=755,356,410,281
 com.mucommander.ui.dialog.file.ChangeDateDialog=684,332,278,215
