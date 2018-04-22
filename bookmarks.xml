@@ -21,6 +21,10 @@
         <location>C:\docs\</location>
     </bookmark>
     <bookmark>
+        <name>pics</name>
+        <location>C:\pics\</location>
+    </bookmark>
+    <bookmark>
         <name>temp</name>
         <location>C:\temp\</location>
     </bookmark>
