@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <theme>
     <file_table>
+        <font family="Dialog" size="14"/>
         <normal>
         </normal>
         <selected>
